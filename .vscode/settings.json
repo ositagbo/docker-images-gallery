@@ -1,15 +1,15 @@
 {
     "editor.tabSize": 2,
     "files.eol": "\n",
-    "eslint.validate": [
+ /*    "eslint.validate": [
         "html",
         "javascript",
         "javascriptreact"       
-    ],
+    ], */
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true
     },
-    "python.pythonPath": "api/.venv/bin/python3",
+    //"python.pythonPath": "api/.venv/bin/python3",
     "python.linting.pylintPath": "api/.venv/bin/pylint",
     "python.linting.pycodestyleEnabled": true,
     "python.linting.pycodestyleArgs": [
